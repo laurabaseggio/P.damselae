@@ -1,6 +1,3 @@
-# Laura 1st of March 2021
-# script to analise presence/absence of genes from Roary csv file
-
 library(VennDiagram)
 
 # import data and metadata:
